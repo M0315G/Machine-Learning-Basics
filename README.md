@@ -7,9 +7,9 @@ After providing the Implementation from Scratch using the basic libraries like N
 
 **Total Notebooks:**
 - [x] Simple Linear Regression w/o Regularization (Using Gradient Descent as well as using Normal Equation )
-- [ ] Simple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
+- [x] Simple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
 - [x] Multiple Linear Regression w/o Regularization (Using Gradient Descent as well as using Normal Equation )
-- [ ] Multiple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
+- [x] Multiple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
 - [x] Polynomial Regression
 - [ ] K-Nearest Neighbour Algorithm
 - [ ] Naive Bayes Algorithm
