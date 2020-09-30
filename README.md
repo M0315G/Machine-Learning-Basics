@@ -11,7 +11,7 @@ After providing the Implementation from Scratch using the basic libraries like N
 - [x] Multiple Linear Regression w/o Regularization (Using Gradient Descent as well as using Normal Equation )
 - [x] Multiple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
 - [x] Polynomial Regression
-- [ ] K-Nearest Neighbour Algorithm
+- [x] K-Nearest Neighbour Algorithm
 - [ ] Naive Bayes Algorithm
 - [ ] Decision Trees
 - [ ] Support Vector Classification Algorithm
