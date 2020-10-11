@@ -12,7 +12,7 @@ After providing the Implementation from Scratch using the basic libraries like N
 - [x] Multiple Linear Regression w Regularization (Using Gradient Descent as well as using Normal Equation )
 - [x] Polynomial Regression
 - [x] K-Nearest Neighbour Algorithm
-- [ ] Naive Bayes Algorithm - Gaussian
+- [x] Naive Bayes Algorithm - Gaussian
 - [ ] Naive Bayes Algorithm - Multinomial
 - [ ] Naive Bayes Algorithm - Bernouli
 - [ ] Decision Trees
