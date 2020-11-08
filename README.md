@@ -19,7 +19,8 @@ After providing the Implementation from Scratch using the basic libraries like N
 - [ ] Decision Tree from Scratch
 - [ ] Support Vector Classification Algorithm
 - [ ] Support Vector Regression Algorithm
-- [ ] Perceptual Network (Implement AND and various Gates)
+- [x] Perceptual Network (Implement AND and various Gates)
+- [x] Perceptual Network for Multiple Nodes
 - [ ] Backpropogation in Neural Networks
 
 More Notebooks to be added to the list, Stay Tuned!
