@@ -17,7 +17,7 @@ After providing the Implementation from Scratch using the basic libraries like N
 - [ ] Naive Bayes Algorithm - Bernouli
 - [x] Decision Trees - Using Sklearn
 - [ ] Decision Tree from Scratch
-- [ ] Support Vector Classification Algorithm
+- [x] Support Vector Classification Algorithm
 - [ ] Support Vector Regression Algorithm
 - [x] Perceptual Network (Implement AND and various Gates)
 - [x] Perceptual Network for Multiple Nodes
