@@ -22,5 +22,6 @@ After providing the Implementation from Scratch using the basic libraries like N
 - [x] Perceptual Network (Implement AND and various Gates)
 - [x] Perceptual Network for Multiple Nodes
 - [ ] Backpropogation in Neural Networks
+- [x] Using Grid Search for hyperparameter tuning
 
 More Notebooks to be added to the list, Stay Tuned!
